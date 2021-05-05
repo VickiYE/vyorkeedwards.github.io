@@ -12,14 +12,14 @@ redirect_from:
 
 
 Education / Qualifications
-======
+=====
 
 * PhD Human Bioarchaeology, University College London, 2020
 * MSc Forensic Archaeological Science, University College London 2002
 * BA Archaeology (Hons), University College London 2000
 
 Professional History
-======
+=====
 
 * Research Fellow in Trial Conduct Methodology, MRC Clinical Trials Unit at UCL, Oct 2018 - present
 * Data Scientist, MRC Clinical Trials Unit at UCL, Aug 2013 - Oct 2018
