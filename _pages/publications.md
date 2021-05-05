@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.uri %}
-  You can also find my articles on <u><a href="{{author.uri}}">my University Profile</a>.</u>
+  You can find an up to date list of my publications on <u><a href="{{author.uri}}">my UCL Profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
