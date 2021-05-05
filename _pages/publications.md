@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.url %}
-  You can find an up to date list of my publications on <u><a href="{{author.url}}">my UCL Profile</a>.</u>
-{% endif %}
+You can find an up to date list of my publications on [my UCL Profile](https://iris.ucl.ac.uk/iris/browse/profile?upi=VYORK86)
 
 
