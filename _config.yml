@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "Research Fellow in Trial Conduct Methodology at the MRC Clinical Trials Unit at University College London"
   location         : "London, UK"
-  employer         : "https://iris.ucl.ac.uk/iris/browse/profile?upi=VYORK86"
+  employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=victoria+yorke-edwards"
   googlescholar    : 
   email            : "v.yorke-edwards@ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://iris.ucl.ac.uk/iris/browse/profile?upi=VYORK86"
   bitbucket        :
   codepen          :
   dribbble         :
