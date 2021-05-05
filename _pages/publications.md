@@ -9,8 +9,4 @@ author_profile: true
   You can find an up to date list of my publications on <u><a href="{{author.url}}">my UCL Profile</a>.</u>
 {% endif %}
 
-# {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
