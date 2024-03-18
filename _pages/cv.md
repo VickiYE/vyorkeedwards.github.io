@@ -18,10 +18,13 @@ Education / Qualifications
 * MSc Forensic Archaeological Science, University College London 2002
 * BA Archaeology (Hons), University College London 2000
 
+* Fellow of the Higher Education Academy (FHEA)
+
 Professional History
 =====
 
-* Research Fellow in Trial Conduct Methodology, MRC Clinical Trials Unit at UCL, Oct 2018 - present
+* Senior Research Data Steward, Centre for Advanced Research Computing, University College London, Feb 2014 - present
+* Research Fellow in Trial Conduct Methodology, MRC Clinical Trials Unit at UCL, Oct 2018 - Feb 2024
 * Data Scientist, MRC Clinical Trials Unit at UCL, Aug 2013 - Oct 2018
 * Data Scientist, MRC Clinical Trials Unit, Sept 2010 - Aug 2013
 * Acting Trial Manager, MRC Clinical Trials Unit, Apr 2010 - Sept 2010
